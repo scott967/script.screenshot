@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+	<addon id="script.screenshot" version="4.1.1" name="Screenshot path setter" provider-name="scott967">
+	<requires>
+	<import addon="xbmc.gui" version="5.15.0"/>
+	<import addon="xbmc.python" version ="3.0.0"/>
+	</requires>
+	<extension point="xbmc.python.script" library="default.py" />
+	<extension point="xbmc.addon.metadata">
+	<summary lang="en">Set screenshot path to current playing media extrafanart folder</summary>
+	<description lang="en">Fill extrafanart folder with screenshots from your playing videos.</description>
+	<platform>all</platform>
+		<assets>
+			<icon>icon.png</icon>
+		</assets>
+	</extension>
+</addon>
