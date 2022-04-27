@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<settings version="1">
+	<section id="script.screenshot">
+		<category help="" id="general" label="128">
+<!--         <setting type="sep"/> -->
+			<group id="1">
+				<setting help="32001" id="use_extrafanart_folder" label="32000" type="boolean">
+					<level>0</level>
+					<default>False</default>
+					<control type="toggle"/>
+				</setting>
+			</group>
+		</category>
+	</section>
+</settings>
