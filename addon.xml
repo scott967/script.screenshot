@@ -7,8 +7,8 @@
 	</requires>
 	<extension point="xbmc.python.script" library="default.py" />
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Take screenshot and save to current playing media folder</summary>
-		<description lang="en">Fill extrafanart folder with screenshots from your playing videos or add a new fanart[nn].jpg image</description>
+		<summary lang="en_GB">Take screenshot and save to current playing media folder</summary>
+		<description lang="en_GB">Fill extrafanart folder with screenshots from your playing videos or add a new fanart[nn].jpg image</description>
 		<platform>all</platform>
 		<license>GPL-2.0-or-later</license>
 		<source>http://github.com/scott967/script.screenshot</source>
